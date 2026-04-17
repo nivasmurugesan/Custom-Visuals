@@ -1,0 +1,18 @@
+{
+    "name": "BoxPlotWhisker",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMH_vy-zzMHgRiSnaPTZmxsDtWEujwSJvytw&s",
+    "structure": [
+        [
+            "Samples",
+            "single",
+            "DIMENSIONAL",
+            ""
+        ],
+        [
+            "Values",
+            "single",
+            "MEASURE",
+            "CONTINUOUS"
+        ]
+    ]
+}
