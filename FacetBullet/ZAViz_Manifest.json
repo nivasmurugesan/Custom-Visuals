@@ -1,0 +1,31 @@
+{
+    "name": "Facet Bullet __ 1",
+    "icon": "icon.png",
+    "dependencies": ["d3.js", "zc.js"],
+    "structure": [
+        [
+            "Category",
+            "single",
+            "DIMENSIONAL",
+            "" 
+        ],
+        [
+            "Values",
+            "multi",
+            "MEASURE",
+            ""
+        ],
+        [
+            "Ranges",
+            "multi",
+            "MEASURE",
+            ""
+        ],
+        [
+            "Target",
+            "single",
+            "MEASURE",
+            ""
+        ]
+    ]
+}
